@@ -9,3 +9,5 @@ For now I know :
 1. python
 2. JS
 3. HTML/CSS
+
+primary color for the page : #22d3ee
